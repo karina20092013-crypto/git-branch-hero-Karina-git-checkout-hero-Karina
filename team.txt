@@ -1,0 +1,3 @@
+#Я — Karina. Моя суперсила: фантазия 
+git add team.txt
+git commit -m "Добавила свою суперсилу"
